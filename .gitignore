@@ -1,5 +1,7 @@
 node_modules
-package-lock.json
-package.json
-gulpfile.json
 src
+.gitignore
+.DS_Store
+package.json
+package-lock.json
+gulpfile.json
